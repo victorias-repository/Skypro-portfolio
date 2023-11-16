@@ -51,8 +51,7 @@
 
 <p>Как решала: краткое описание решения (автореферат)<p>
   
-> <a href="[https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing](https://github.com/victorias-repository/Skypro-portfolio/blob/main/Проект%20№2.zip)">Ссылка на проект</a>
-(ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="Проект №2.zip">Ссылка на проект</a>
 
   <p>Выводы (итоги):<p>
 <ol>
